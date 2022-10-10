@@ -15,12 +15,12 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Screenshot](https://github.com/DevBox01/Onboarding_Form/blob/master/screenshot/1.png)
+![Screenshot](https://github.com/DevBox01/Onboarding_Form/blob/main/screenshot/1.png)
 
-![Screenshot](https://github.com/DevBox01/Onboarding_Form/blob/master/screenshot/2.png)
+![Screenshot](https://github.com/DevBox01/Onboarding_Form/blob/main/screenshot/2.png)
 
-![Screenshot](https://github.com/DevBox01/Onboarding_Form/blob/master/screenshot/3.png)
+![Screenshot](https://github.com/DevBox01/Onboarding_Form/blob/main/screenshot/3.png)
 
-![Screenshot](https://github.com/DevBox01/Onboarding_Form/blob/master/screenshot/4.png)
+![Screenshot](https://github.com/DevBox01/Onboarding_Form/blob/main/screenshot/4.png)
 
-![Screenshot](https://github.com/DevBox01/Onboarding_Form/blob/master/screenshot/5.png)
+![Screenshot](https://github.com/DevBox01/Onboarding_Form/blob/main/screenshot/5.png)
